@@ -26,4 +26,5 @@ Copy
 Edit
 pip install tensorflow pandas matplotlib sklearn gradio jinja2
 3️⃣ Download Dataset
-Place the dataset in jigsaw-toxic-comment-classification-challenge/train.csv.
+Place the dataset in jigsaw-toxic-comment-c<img width="1440" alt="Screenshot 2025-01-29 at 6 34 45 PM" src="https://github.com/user-attachments/assets/a8354885-e508-4c48-9fd0-9f706b8059b4" />
+lassification-challenge/train.csv.
